@@ -23,7 +23,7 @@ munkres==1.1.4
 
 scipy==1.10.0
 
-## preprocess 
+## Preprocess 
 For example, put the raw expression matrix `ori_data.tsv` and the true label `label.ann` of the dataset Pollen into `/data/Pollen`, and run the following command to preprocess before clustering:
 ```python
 python preprocess.py Pollen
