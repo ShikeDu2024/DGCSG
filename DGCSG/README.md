@@ -2,11 +2,11 @@
 DGCSG: Differentiable Graph Clustering with Structural Grouping for Single-cell RNA-seq Data.
 
 ## Description
-preprocess.py: Preprocessing of raw scRNA-seq data.
+preprocess.py: preprocessing of raw scRNA-seq data.
 
-ae_pretrain.py: Pre-training on scRNA-seq data.
+ae_pretrain.py: pre-training on scRNA-seq data.
 
-DGCSG.py: Our model
+DGCSG.py: our model
 
 main.py: train our model
 
